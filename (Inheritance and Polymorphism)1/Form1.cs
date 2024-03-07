@@ -65,13 +65,6 @@ namespace _Inheritance_and_Polymorphism_1
                 txtOutput.Text = leader.ToString();
             }
             
-           
-
-
-
-
-
-
         }
 
         private void rbtnWorker_CheckedChanged(object sender, EventArgs e)
