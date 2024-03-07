@@ -41,13 +41,6 @@ namespace _Inheritance_and_Polymorphism_1
             txtTrainingHours.Text = "";
 
 
-                          
-                            
-            
-
-
-
-
             if (rbtnWorker.Checked)
             {
                 ProductionWorker worker = new ProductionWorker(name, id, shift, pay);
